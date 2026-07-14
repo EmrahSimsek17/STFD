@@ -209,6 +209,18 @@ This repository is intended for academic research and educational purposes.
 
 ---
 
+Notice
+
+The documentation, explanations, and source code in this repository have been reviewed and enhanced with the assistance of artificial intelligence to improve clarity, consistency, and readability.
+
+If you encounter any errors, inaccuracies, or have suggestions for improvement, please feel free to contact me at:
+
+📧 emrah.simsek@erzurum.edu.tr
+
+Your feedback is greatly appreciated and will help improve the quality of this repository.
+
+---
+
 ## Author
 
 **Dr. Emrah Şimşek**
