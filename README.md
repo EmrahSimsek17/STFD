@@ -49,7 +49,7 @@ STFD/
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/STFD.git
+git clone https://github.com/EmrahSimsek17>/STFD.git
 cd STFD
 pip install -r requirements.txt
 ```
