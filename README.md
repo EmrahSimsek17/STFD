@@ -205,7 +205,17 @@ This work forms the basis for several subsequent studies on moving object detect
 
 ## License
 
-This repository is intended for academic research and educational purposes.
+Copyright (c) 2026 Emrah Şimşek
+
+This software is provided solely for academic, educational and research purposes.
+
+Commercial use, redistribution within commercial products,
+or incorporation into proprietary software is prohibited
+without prior written permission from the copyright holder.
+
+For commercial licensing inquiries, please contact:
+
+emrah.simsek@erzurum.edu.tr
 
 ---
 
